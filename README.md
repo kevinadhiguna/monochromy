@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ```
 python monochromy.py
 ```
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/monochromy)](https://github.com/kevinadhiguna)
